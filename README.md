@@ -1,6 +1,6 @@
 # MODULE 1 CHALLENGE - PayZen
 
-## Overview and Origin
+## Overview and Origin:
 
 * Name of company
     - Payzen
@@ -52,7 +52,7 @@
     - Other companies in this area include: Instamed, Cedar, Walnut, Wellpay. 
 
 
-## Results
+## Results:
 
 * What has been the business impact of this company so far?
     - Payzen has improved patients' ability to repay otherwise unaffordable medical bills.
@@ -66,7 +66,7 @@
     - PayZen's performance is in-line with other players in this market. One comparable is Cedar. Cedar provides a similar solution although their risk calculation related to patient payments is different, and Cedar's collection improvement is about 25%. Outperforming both Cedar and PayZen, Wellpay boasts a partnership that resulted in a 45% increase in patient collections.
 
 
-## Recommendations
+## Recommendations:
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
     - I would suggest PayZen consider offering short-term lending solutions to the providers they serve currently. Given the insight they have on patient responsibility, and overall repayment, PayZen likely would have a great opporutnity to forecast future revenue and for the provider and lend against that forecast.  
@@ -89,7 +89,7 @@
 
 - - - 
 
-## References
+## References:
 
 https://www.cbinsights.com/research/report/healthcare-providers-digital-patient-payments-mvp/
 
